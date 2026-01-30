@@ -9,4 +9,8 @@ public class TestControllerTest {
     public String testHello(){
        return "Hello, World!";
     }
+
+    public String aaaa(){
+       return "aaaaaaaaaa";
+    }
 }
